@@ -5,5 +5,5 @@ Our mission is to provide business customers with effective cloud network securi
 VDC.cloud provides tailored consultancy services that align with small to large project scopes, specialising in Multi-Cloud Network, Multi-Cloud Security, Zero Trust segmentation, and Artificial Intelligence (AI).
 
 ### Companies
-VDC.cloud Professional Services Asia Pte. Ltd - Singapore
-VDC.cloud Professional Services Ltd - London
+- VDC.cloud Professional Services Asia Pte. Ltd - Singapore
+- VDC.cloud Professional Services Ltd - London
