@@ -7,3 +7,7 @@ VDC.cloud provides tailored consultancy services that align with small to large 
 ### Companies
 - VDC.cloud Professional Services Asia Pte. Ltd - Singapore
 - VDC.cloud Professional Services Ltd - London
+
+### Contact Us
+- Website: [https://vdc.cloud](https://vdc.cloud)
+- Linkedin: [VDC.cloud](https://www.linkedin.com/company/vdccloud)
